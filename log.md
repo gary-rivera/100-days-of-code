@@ -1,7 +1,8 @@
 Goals:
 
-- Revamp personal website
-- Use DevEd's course for inspiration
+- Be better programmer than you were yesterday.
+- Revamp personal website.
+- Use DevEd's course for inspiration on React projects.
 
 - Familiarize myself with the following technologies:
 
@@ -21,3 +22,10 @@ Thu Jun 17 17:03:16 PDT 2021
 Day 0
 
 Tomorrow I begin 100 consecutive days of coding. As excited as I may be I'm still very nervous about the challenge. I think my first task will be improving my personal website.
+
+Fri Jun 18 16:36:55 PDT 2021
+Day 1
+
+Sheesh. This was tough to see my skills regressed so quickly. Set up for a simple react app and repo took me about 15 to 20 minutes and a lot reviewing how branches work. I've decided to treat this redesign as much as I can to what it would be like in an acutal coding work environement so habitually merging from master daily, notating significant changes during commits.
+
+All in all, I'm hpapy I'm doing this.
