@@ -36,3 +36,8 @@ Day 2
 I have decided to juggle two things: my personal website overhaul from vanilla to modern react and learning how to use Elm. I heard from \_\_\_\_ on the React Podcast that before learning Typescript he'd recommend learning Elm to help understand the nuances of static typed languages.
 
 I'm happy to be taking the fast route for personal website and hope to have it deployed my maybe Tuesday at the latest.
+
+Sun Jun 20 19:21:02 PDT 2021
+Day 3
+
+After 16 weeks of learning new technology after new technology, its really nice being able to take my time and put trivial things such as 'export default' vs 'module.exports' into perspective. Also decided to pick up Elm in the meantime to reintroduce myself into a static languages.
