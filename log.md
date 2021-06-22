@@ -41,3 +41,8 @@ Sun Jun 20 19:21:02 PDT 2021
 Day 3
 
 After 16 weeks of learning new technology after new technology, its really nice being able to take my time and put trivial things such as 'export default' vs 'module.exports' into perspective. Also decided to pick up Elm in the meantime to reintroduce myself into a static languages.
+
+Mon Jun 21 18:58:29 PDT 2021
+Day 4
+
+Took a break from personal website and it's styling to continue on hangman-elm, which lead to crash course refreshed on Node/express as I needed to create a backend app that serves up a dynamic word when its endpoint is pinged. It's all hooked up, now just need to make some quick tests to make sure the routes work.
