@@ -51,3 +51,5 @@ Tue Jun 22 20:03:29 PDT 2021
 Day 5
 
 having a blast getting my personal website to a point where I think it actually represents my current skillset. Eventually I'd like to have my portfolio dynamically pull my projects from the github api instead of statically entering them and already came across some awesome resources to do so.
+
+React libraries is something I never got a chance to work with and seeing how ones such as styled-components and frame-motion can work together is enlightening.
