@@ -33,7 +33,7 @@ All in all, I'm happy I'm doing this.
 Sat Jun 19 17:57:46 PDT 2021
 Day 2
 
-I have decided to juggle two things: my personal website overhaul from vanilla to modern react and learning how to use Elm. I heard from \_\_\_\_ on the React Podcast that before learning Typescript he'd recommend learning Elm to help understand the nuances of static typed languages.
+I have decided to juggle two things: my personal website overhaul from vanilla to modern react and learning how to use Elm. The React Podcast advises that before learning Typescript they'd recommend learning Elm first to help understand the nuances of static typed languages.
 
 I'm happy to be taking the fast route for personal website and hope to have it deployed my maybe Tuesday at the latest.
 
@@ -46,3 +46,8 @@ Mon Jun 21 18:58:29 PDT 2021
 Day 4
 
 Took a break from personal website and it's styling to continue on hangman-elm, which lead to crash course refreshed on Node/express as I needed to create a backend app that serves up a dynamic word when its endpoint is pinged. It's all hooked up, now just need to make some quick tests to make sure the routes work.
+
+Tue Jun 22 20:03:29 PDT 2021
+Day 5
+
+having a blast getting my personal website to a point where I think it actually represents my current skillset. Eventually I'd like to have my portfolio dynamically pull my projects from the github api instead of statically entering them and already came across some awesome resources to do so.
