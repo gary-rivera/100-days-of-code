@@ -68,3 +68,15 @@ Could barely manage to pull myself to code today. Frankly most of todays coding 
 
 Thu Jun 24 20:53:21 PDT 2021
 Day 7
+
+Website framework is completely fleshed out at this point but sheesh is this styling thing a pain. Still pretty dope to see how styled-components and motion library work together and overall excited to get this published
+
+Fri Jun 25 12:00:00 PDT 2021
+Day 8
+
+More React on personal site. Deciding how the site navigation layout feels so foreign. Never considered how my code design will affect whether users have a positive or negative interaction with my work.
+
+Sat Jun 26 20:44:11 PDT 2021
+Day 9
+
+Worked out how to deploy a react app whilst hosting static files. Wayyy easier than I made it out to be but I eventually figured it was due to some external library I installed and forgot about, so that was fun. Not sure that I'll ever actually get faster at debugging but I'm too deep into it now. Gotta keep swimming.
