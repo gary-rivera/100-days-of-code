@@ -88,3 +88,9 @@ Sun Jun 27 19:04:40 PDT 2021
 Day 10
 
 Rather successful day. I've reworked the app to eventually be a single page website that utilizes hashrouter instead. Just felt the flow of the page navigation was better that way. Between that and rendering my portfolio I'm pretty close to fully deploying!
+\_
+
+Mon Jun 28 22:17:03 PDT 2021
+Day 11
+
+Styling is such a love/hate thing but i'm getting the hang of styled components' philosophy and it's really helping avoiding styles clashing between one another. Should be able to deploy either mid tomorrow or early wednesday.
