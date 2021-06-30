@@ -94,3 +94,9 @@ Mon Jun 28 22:17:03 PDT 2021
 Day 11
 
 Styling is such a love/hate thing but i'm getting the hang of styled components' philosophy and it's really helping avoiding styles clashing between one another. Should be able to deploy either mid tomorrow or early wednesday.
+\_
+
+Tue Jun 29 22:50:20 PDT 2021
+Day 12
+
+Getting close, my list of bugs is starting to dwindle and a lot of that rust is wearing away! This project has solidified my love of React and has me geeked for deploying. I'm starting to create an almost uneccessary stress to myself to get this done but I've got to slow down and understand these changes need to take time. I guess its because I'm so concerned that all these applications I send out are for nothing. But I've got to relax. It's a marathon, not a race.
