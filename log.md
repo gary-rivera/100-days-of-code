@@ -100,3 +100,27 @@ Tue Jun 29 22:50:20 PDT 2021
 Day 12
 
 Getting close, my list of bugs is starting to dwindle and a lot of that rust is wearing away! This project has solidified my love of React and has me geeked for deploying. I'm starting to create an almost uneccessary stress to myself to get this done but I've got to slow down and understand these changes need to take time. I guess its because I'm so concerned that all these applications I send out are for nothing. But I've got to relax. It's a marathon, not a race.
+
+Wed Jun 30 12:00:00 PDT 2021
+Day 13
+
+Decided even though my page wasn't fully ready to deploy (yay styling) I'd just give it an 'under maintenance' look and get it out tomorrow while I get it finished. Messing with state and creating reusable components was tough but super dope!
+\_
+
+Thur Jul 1 12:00:00 PDT 2021
+Day 14
+
+Dependencies clashing with one another, surprise 'exact path' bug breaking resume link, and configuring DNS server + github pages but its done. My (partially complete) website page is deployed :)
+
+Fri Jul 2 12:00:00 PDT 2021
+Took a day off. Add to the end of the 100 days!
+
+Sat Jul 3 22:55:33 PDT 2021
+Day 15
+
+Took some time away yesterday after the deploying fiasco but back to #100DaysOfCode for Day 15 today. I was starting to feel scatter brained with the minute changes I needed to make so I decided to try and replicate a real world work environemnt and set up issues + use brancehs for my sites repo. It's def helping with keeping a clear head on what I'm hoping to accomplich with my time.
+\_
+
+Sun Jul 4 14:59:53 PDT 2021
+Day 16
+Day 16 is in the books. Dividing my approach into more chunk sized milestones is proving to be really helpful. What I thought would take me 6 to 8 hours today only eneded up being about 3. Anywho, got the about me section about 90% done and then off to the portfolio part :)
